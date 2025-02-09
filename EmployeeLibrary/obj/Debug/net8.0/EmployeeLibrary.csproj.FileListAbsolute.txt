@@ -1,0 +1,11 @@
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\bin\Debug\net8.0\EmployeeLibrary.deps.json
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\bin\Debug\net8.0\EmployeeLibrary.dll
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\bin\Debug\net8.0\EmployeeLibrary.pdb
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.dll
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\obj\Debug\net8.0\refint\EmployeeLibrary.dll
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.pdb
+C:\Users\Sanag\source\repos\Day4\EmployeeLibrary\obj\Debug\net8.0\ref\EmployeeLibrary.dll
